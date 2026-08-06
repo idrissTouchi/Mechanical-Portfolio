@@ -1,8 +1,13 @@
 <div align="center">
 
+<img src="images/profile.jpg" width="220" alt="Idriss Touchi"/>
+
 # 👋 Hi, I'm Idriss Touchi
 
 ### Mechanical Manufacturing Engineer
+
+</div>
+<div align="center">
 
 🎓 Master's Degree in Mechanical Manufacturing Engineering
 
