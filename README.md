@@ -105,9 +105,9 @@ Optimization and Modeling of Performance in Bronze Turning
 
 ---
 
-# 📄 Resume
+## 📄 Resume
 
-My CV will be available here soon.
+📥 [Download My CV](Resume/Idriss_Touchi_CV_English.pdf)
 
 ---
 
