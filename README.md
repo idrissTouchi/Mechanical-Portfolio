@@ -113,7 +113,7 @@ Optimization and Modeling of Performance in Bronze Turning
 
 # 📬 Contact
 
-📧 Email: **idrisstouchi@gmail.comا**
+📧 Email: **idrisstouchi@gmail.com**
 
 💼 LinkedIn: [click here](https://www.linkedin.com/in/idriss-touchi-637112382)
 
