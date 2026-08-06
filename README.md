@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/profile.jpg" width="220" alt="Idriss Touchi"/>
+<img src="images/profile.png" width="220" alt="Idriss Touchi"/>
 
 # 👋 Hi, I'm Idriss Touchi
 
