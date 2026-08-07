@@ -112,7 +112,8 @@ Optimization and Modeling of Performance in Bronze Turning
 
 ## 📄 Resume
 
-📥 [Download My CV](Resume/Idriss_Touchi_CV_English.pdf)
+📥 Optimization and modeling of performance in bronze turning: A Comparison
+between dry machining with industrial oi
 
 ---
 
