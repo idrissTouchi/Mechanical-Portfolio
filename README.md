@@ -115,7 +115,11 @@ Optimization and Modeling of Performance in Bronze Turning
 📥 [Download my CV](Resume/Idriss_Touchi_CV_English.pdf)
 
 ---
+## 📄 Certificates
 
+📥 [See My Certificates](Certaficates.pdf)
+
+---
 # 📬 Contact
 
 📧 Email: **idrisstouchi@gmail.com**
